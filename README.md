@@ -11,3 +11,5 @@ algorithms separately:
 also in the file, the .csv files for The coefficient matrix and Parameter vector is
 under name ”Coefficient Matrix.csv” and ”Parameter Vector.csv”. After executing the code, The final result can be seen in the ”Result.xls” excel sheet, or
 by name ”result” in the Workspace’s variable in MATLAB.
+
+Arun Sharma
